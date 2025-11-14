@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'dart:io';
 
 class SplashScreen extends StatefulWidget {
     @override
